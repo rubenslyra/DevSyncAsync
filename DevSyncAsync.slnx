@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DevAssync/DevAsync.csproj" Id="c597d5b9-ccf6-4eb9-b45a-98b3316c4c4c" />
+  <Project Path="DevAsyncRetorno/DevAsyncRetorno.csproj" Id="7a415180-e261-42b1-b097-951204e8f41b" />
+  <Project Path="DevSync/DevSync.csproj" Id="a6d3ec88-5db7-4f6f-8180-773bc0823d71" />
+</Solution>
